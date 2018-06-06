@@ -1,0 +1,58 @@
+[
+    {
+        "category": "power cords",
+        "class": 10,
+        "item_no": "16325",
+        "item": "16 Gauge Round Power Cords",
+        "description": "These 16 gauge, 3 wire orange power cords will stay flexible down to -40°.  They feature a heavy duty double vinyl jacket insulation and molded male and female ends.  The cords are all copper wire from end to end and do not contain any of the cheap aluminum filler used in some cords. The 25’ and 50’ are rated 13 Amp and the 100’ are rated 10 Amp and all are 125 Volt. Import.",
+        "short_desc": "Orange Power Cord",
+        "size": "25' x 16/3",
+        "image": "assets/img/items/16350.BMP"
+    },
+    {
+        "category": "power cords",
+        "class": 10,
+        "item_no": "110C",
+        "item": "12 Gauge Round Power Cords",
+        "description": "These are heavy duty, 12 gauge x 3 wire round yellow power cords with a heavy duty double vinyl jacket and molded male and female ends.  They’re all copper wire from end to end with no aluminum fillers and they have solid brass connectors. The triple tap cords have a molded, 3-way plug receptacle on one end. Import.",
+        "short_desc": "Round Yellow Power Cord",
+        "size": "25' x 12/3",
+        "image": "assets/img/items/110_C_O.JPG"
+    },
+    {
+        "category": "lights",
+        "class": 12,
+        "item_no": "SL650",
+        "item": "Stubby Retractable Fluorescent Work Light",
+        "description": "This is a heavy duty UL approved American made light. It has a 20’ x 18/2 pure copper cord. The bulb is rated for 10,000 hours. It is the equivalent of a 75 watt incandescent bulb. The bulb is a PL-13/41 twin tube fluorescent lamp and is encased in a clear Lexan tube for protection. Tube is 10” long.  There is a hanger hook on the end of the tube, so the light can be used hands free. The retractable unit comes with all mounting hardware to mount the reel on the wall or ceiling.",
+        "short_desc": "20' Retractable Stubby Fluorescent Light",
+        "image": "assets/img/items/SL650J.JPG"
+    },
+    {
+        "category": "lights",
+        "class": 12,
+        "item_no": "SL825",
+        "item": "Retractable Fluorescent Light",
+        "description": "First off, these fluorescent work lights are the ones with a steel housing not the cheap plastic ones. They’re bright yellow with a heavier 16/3 black cord, not the lightweight 18/3 cord. That’s because they have the extra plug socket at the end of the light. And, these are UL and OSHA approved because that heavy duty switch is recessed and shock-proof.  You get a 10,000 hour twin-tube bulb that’s equal to a 75 watt incandescent bulb. And, here’s a great feature: on the end of the light is a clear end cap-for spot lighting. Also, in the box, at no extra charge, is a magnetic holder that you can strap onto the light and mount it wherever you want. Sliding hook is included. USA made. ",
+        "short_desc": "16/3 x 40' SJT Fluorescent Reel Light",
+        "image": "assets/img/items/SL825_2.JPG"
+    },
+    {
+        "category": "wrenches",
+        "class": 52,
+        "item_no": "802",
+        "item": "Flare Nut Wrench Set",
+        "description": "These are also called 'line wrenches'. They're almost a boxed end but opened slightly so that they can be slipped over tubing or hoses to get to a nut or fitting.  They hold on better than an open end wrench and fit exactly like a boxed end wrench but slip easily over a connected line.  Made of chrome vanadium, machined and hardened steel. Imported.",
+        "short_desc": "Flare Nut Wrench Set - 6 PC. SAE",
+        "image": "assets/img/items/802.BMP"
+    },
+    {
+        "category": "wrenches",
+        "class": 52,
+        "item_no": "839",
+        "item": "Wrench Set - Flex Ratcheting SAE 4 PC Jumbo",
+        "description": "These flex gear wrenches are box & open wrenches with a thin, but heavy duty ratcheting system built into the box end side of the wrench. The gears are 72 tooth precision cut cogs that allow for a quick movement of 5° rotations over and over until the nut or bolt is off.  They can be used just like regular wrenches but where space is limited and a turning radius is restricted, the gear end is extremely convenient. Imported.",
+        "short_desc": "Wrench Set - Flex Ratcheting SAE 4 PC Jumbo",
+        "image": "assets/img/items/839.PNG"
+    }
+]
